@@ -41,4 +41,9 @@
 - Day 35: Send SMS API
 - Day 36: Stock Trading News Alert
 - Day 37: Habit Tracking App
-- Day 38: 
+- Day 38: Workout Tracking Google Sheet App
+- Day 39: Flight Deal Finder
+- Day 40: Flight Club App
+
+## Web Foundation
+- Day 41: HTML
